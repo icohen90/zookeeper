@@ -162,6 +162,17 @@
         "hungry"
       ],
       "id": "16"
+    },
+    {
+      "name": "Leon",
+      "species": "Lion",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry",
+        "loving",
+        "goofy"
+      ],
+      "id": "17"
     }
   ]
 }
